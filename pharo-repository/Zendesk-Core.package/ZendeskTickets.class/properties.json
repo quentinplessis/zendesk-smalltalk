@@ -1,0 +1,14 @@
+{
+	"category" : "Zendesk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZendeskTickets",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

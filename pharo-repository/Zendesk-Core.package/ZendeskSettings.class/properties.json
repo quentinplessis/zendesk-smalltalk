@@ -1,0 +1,14 @@
+{
+	"category" : "Zendesk-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"settingsDict" ],
+	"name" : "ZendeskSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

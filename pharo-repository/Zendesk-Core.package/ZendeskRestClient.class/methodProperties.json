@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"default" : "QuentinPlessis 10/24/2016 17:44",
+		"initialize" : "QuentinPlessis 10/24/2016 17:44" },
+	"instance" : {
+		"client" : "QuentinPlessis 10/24/2016 17:36",
+		"createRequest" : "QuentinPlessis 10/24/2016 18:15",
+		"defaultClient" : "QuentinPlessis 10/24/2016 17:22",
+		"httpGet:" : "QuentinPlessis 10/25/2016 09:17",
+		"httpPost:contents:" : "QuentinPlessis 10/24/2016 18:37" } }

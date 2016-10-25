@@ -1,0 +1,14 @@
+{
+	"category" : "Zendesk-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"client" ],
+	"name" : "ZendeskRestClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

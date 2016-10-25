@@ -1,0 +1,15 @@
+{
+	"category" : "Zendesk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseUrl",
+		"url" ],
+	"name" : "ZendeskResourceUrl",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

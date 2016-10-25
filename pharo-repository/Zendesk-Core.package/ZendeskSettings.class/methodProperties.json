@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"default" : "QuentinPlessis 10/24/2016 17:28",
+		"initialize" : "QuentinPlessis 10/24/2016 17:28" },
+	"instance" : {
+		"apiVersion" : "QuentinPlessis 10/24/2016 18:09",
+		"apiVersion:" : "QuentinPlessis 10/24/2016 18:09",
+		"at:" : "QuentinPlessis 10/24/2016 17:29",
+		"at:ifAbsent:" : "QuentinPlessis 10/24/2016 17:29",
+		"at:ifAbsentPut:" : "QuentinPlessis 10/24/2016 17:29",
+		"at:put:" : "QuentinPlessis 10/24/2016 17:29",
+		"emailAddress" : "QuentinPlessis 10/24/2016 17:30",
+		"emailAddress:" : "QuentinPlessis 10/24/2016 17:31",
+		"settingsDict" : "QuentinPlessis 10/24/2016 18:00",
+		"subdomain" : "QuentinPlessis 10/24/2016 17:47",
+		"subdomain:" : "QuentinPlessis 10/24/2016 17:47",
+		"token" : "QuentinPlessis 10/24/2016 17:30",
+		"token:" : "QuentinPlessis 10/24/2016 17:30" } }
