@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfZendesk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfZendesk",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

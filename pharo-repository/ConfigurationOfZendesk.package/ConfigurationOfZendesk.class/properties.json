@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfZendesk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfZendesk",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
