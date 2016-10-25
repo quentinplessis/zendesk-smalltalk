@@ -14,6 +14,11 @@ Metacello new
 or
 
 ```smalltalk
+Gofer new
+url:'http://smalltalkhub.com/mc/QuentinPlessis/zendesk-smalltalk/main';
+    package: 'ConfigurationOfZendesk';
+    load.
+(Smalltalk at: #ConfigurationOfZendesk) load.
 ```
 
 ## How to use
