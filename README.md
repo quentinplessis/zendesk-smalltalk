@@ -2,23 +2,13 @@
 Pharo Smalltalk Zendesk Client Library
 
 ## Supported Smalltalk Versions
-[Pharo Smalltalk](http://pharo.org/) 5.0
+[Pharo Smalltalk](http://pharo.org/) 5.0, 6.0, 6.1
 
 ```Smalltalk
 Metacello new
     baseline: 'Zendesk';
-    repository: 'github://quentinplessis/zendesk-smalltalk:v0.1/pharo-repository';
+    repository: 'github://quentinplessis/zendesk-smalltalk/pharo-repository';
     load.
-```
-
-or
-
-```smalltalk
-Gofer new
-url:'http://smalltalkhub.com/mc/QuentinPlessis/zendesk-smalltalk/main';
-    package: 'ConfigurationOfZendesk';
-    load.
-(Smalltalk at: #ConfigurationOfZendesk) load.
 ```
 
 ## How to use
